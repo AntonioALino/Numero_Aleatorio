@@ -1,0 +1,15 @@
+D:\Numero_Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.exe
+D:\Numero_Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.deps.json
+D:\Numero_Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.runtimeconfig.json
+D:\Numero_Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.dll
+D:\Numero_Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.pdb
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.csproj.AssemblyReference.cache
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.AssemblyInfoInputs.cache
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.AssemblyInfo.cs
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.csproj.CoreCompileInputs.cache
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.dll
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\refint\Numero Aleatorio.dll
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.pdb
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.genruntimeconfig.cache
+D:\Numero_Aleatorio\Numero Aleatorio\obj\Debug\net6.0\ref\Numero Aleatorio.dll
